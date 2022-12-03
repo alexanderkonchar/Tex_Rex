@@ -4,7 +4,7 @@ A simple C++ program that allows you to extract text from any image. Use the inc
 
 ![TexRex](https://raw.githubusercontent.com/alexanderkonchar/Tex_Rex/master/preview/TexRex.png)
 
-[![Run on Repl.it](https://raw.githubusercontent.com/alexanderkonchar/Tex_Rex/master/preview/RunOnReplit.svg](https://replit.com/@AlexanderKonchar/Tex-Rex?embed=true)
+[![Run on Repl.it](https://raw.githubusercontent.com/alexanderkonchar/Tex_Rex/master/preview/RunOnReplit.png](https://replit.com/@AlexanderKonchar/Tex-Rex?embed=true)
 
 ## Project Changes
 
