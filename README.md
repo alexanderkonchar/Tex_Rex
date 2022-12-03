@@ -2,7 +2,9 @@
 
 A simple C++ program that allows you to extract text from any image. Use the included image file to test it out.
 
-![TexRex](https://github.com/alexanderkonchar/Tex_Rex/blob/master/preview/TexRex.png?raw=true)
+![TexRex](https://raw.githubusercontent.com/alexanderkonchar/Tex_Rex/master/preview/TexRex.png)
+
+[![Run on Repl.it](https://raw.githubusercontent.com/alexanderkonchar/Tex_Rex/master/preview/RunOnReplit.svg](https://replit.com/@AlexanderKonchar/Tex-Rex?embed=true)
 
 ## Project Changes
 
