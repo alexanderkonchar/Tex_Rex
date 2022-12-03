@@ -8,7 +8,7 @@ A simple C++ program that allows you to extract text from any image. Use the inc
 
 I ended up pivoting from a song recognition program to a text recognition program. The main reason I did this was so I
 didn't have to rely on a third-party api that required an internet connection to work. Besides that, much of the program
-is very similar. You select and image or take a screenshot and the program spits out the text in the image. Instead of
+is very similar. You select an image or take a screenshot and the program spits out the text in the image. Instead of
 using a third-party api, I'm using Google's open source tesseract library to do the actual image extraction bit. Just to
 start out, I thought I'd make a cli only application and transition into a full gui app. Currently, the project doesn't
 have enough classes and structs to qualify as the final project, but I'm sure once I start implementing GTK I'll be
