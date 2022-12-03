@@ -44,7 +44,7 @@ int main() {
     api->SetImage(image);
     // Get OCR result
     outText = api->GetUTF8Text();
-    printf("OCR output:\n%s", outText);
+    printf("Extracted text:\n%s", outText);
     // Destroy used object and release memory
     api->End();
     delete api;
